@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormOturumAçmaIslemleriSifreMailHatirlatma", "WindowsFormOturumAçmaIslemleriSifreMailHatirlatma\WindowsFormOturumAçmaIslemleriSifreMailHatirlatma.csproj", "{56877B8D-000E-4B78-BCFB-844B5B0244DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56877B8D-000E-4B78-BCFB-844B5B0244DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56877B8D-000E-4B78-BCFB-844B5B0244DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56877B8D-000E-4B78-BCFB-844B5B0244DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56877B8D-000E-4B78-BCFB-844B5B0244DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A5919F-1E8E-4F6E-9B35-F57A3676E6C5}
+	EndGlobalSection
+EndGlobal
